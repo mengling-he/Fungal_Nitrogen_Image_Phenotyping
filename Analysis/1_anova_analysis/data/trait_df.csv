@@ -1,0 +1,6 @@
+,area_pixels,contour_count,perimeter,hull_area,solidity,min_width,max_width,rect_angle_deg,circularity,B_8bit_min,B_8bit_max,B_8bit_mean,B_8bit_median,B_8bit_var,G_8bit_min,G_8bit_max,G_8bit_mean,G_8bit_median,G_8bit_var,R_8bit_min,R_8bit_max,R_8bit_mean,R_8bit_median,R_8bit_var,Gray_8bit_min,Gray_8bit_max,Gray_8bit_mean,Gray_8bit_median,Gray_8bit_var,H_min,H_max,H_mean,H_median,H_var,S_min,S_max,S_mean,S_median,S_var,V_min,V_max,V_mean,V_median,V_var,L_min,L_max,L_mean,L_median,L_var,A_min,A_max,A_mean,A_median,A_var,LabB_min,LabB_max,LabB_mean,LabB_median,LabB_var
+all,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+plug,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+all_plug,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+new_growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+old_growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

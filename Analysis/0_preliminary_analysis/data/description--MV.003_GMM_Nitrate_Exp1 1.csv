@@ -1,0 +1,11 @@
+﻿Field,Value
+POC,"""York/Rush/Orebaugh"""
+Version,
+Experiment.ID,"""MV.003"""
+Experiment.Name,"""GMM_Nitrate_Exp1"""
+Date,"""12/7/2024"""
+Barcodes.File,"""barcodes--GMM_Nitrate_Exp1.csv"""
+Treatments,"""Fungal.Strain, Nitrogen.Level"""
+Main.Group,
+Stat.Design ,"""Randomized"""
+Prompt,"""This is an experiment to test the effects of 3 nitrogen levels in glucose minimal media across different fungal species using an image-based phenotyping approach"""
