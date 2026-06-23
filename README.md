@@ -24,13 +24,10 @@ This repository contains the analysis code for quantifying dynamic fungal respon
 ├── Analysis/
 │   ├── 0_preliminary_analysis/        # Data preprocessing & exploratory analysis
 │   ├── 1_anova_analysis/              # Repeated-measures ANOVA
-│   │
 │   ├── 3_FPCA_analysis/               # Functional PCA
-│   │
 │   ├── 4_regression_analysis/         # ML classification & regression
-│  
 │   └── 5_feature_importance/          # Feature importance
-
+│ 
 └── requirements.txt                   # Python dependencies
 ```
 
