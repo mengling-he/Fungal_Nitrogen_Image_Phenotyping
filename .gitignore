@@ -28,3 +28,7 @@ Thumbs.db
 venv/
 env/
 .env/
+
+
+# preliminary analysis
+Analyisis/0_preliminary_analysis/preliminary_analysis.ipynb
